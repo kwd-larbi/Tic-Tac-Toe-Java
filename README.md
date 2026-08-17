@@ -13,7 +13,13 @@ This is a fully functional Tic-Tac-Toe game where you play as **X** against the 
 
 ---
 
-## 🎮 Features
+## 🎮 Gameplay Demo
+
+![Tic Tac Toe Gameplay](Tic%20tac%20toe.gif)
+
+---
+
+## ✨ Features
 
 - **Interactive Gameplay**: Play against the computer with real-time board updates
 - **Input Validation**: Robust coordinate validation to prevent invalid moves
@@ -107,6 +113,7 @@ Check for winner?
 ## 📦 Files
 
 - `TTTLarbi.java` - Main game implementation (single file)
+- `Tic tac toe.gif` - Gameplay demonstration
 
 ---
 
