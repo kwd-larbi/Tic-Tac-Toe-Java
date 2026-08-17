@@ -117,15 +117,6 @@ Check for winner?
 
 ---
 
-## 🎯 Future Enhancements
-
-- Improved AI strategy (currently uses random moves)
-- Difficulty levels
-- Game statistics tracking
-- GUI interface using Swing or JavaFX
-
----
-
 ## 📄 License
 
 This project is provided as-is for educational purposes.
